@@ -1,0 +1,51 @@
+/*
+Template:  VSL Pokkhi;
+Author:  Venture Solutions Limited;
+Website:  venturesolutionsltd.com;
+*/
+
+.main-header .logo{
+	margin: 10px !important;
+}
+.main-header .logo img{
+	width: 320px;
+}
+.site-footer .footer-logo a img{
+	display: block;
+	width: 320px;
+}
+.main-menu ul li:hover{
+	background: #9ed034;
+	}
+.main-menu ul li a:hover{
+	color: #fff !important;
+}
+/*****Home Page Intro*****/
+.middle-content{
+	text-align: center;
+}
+.middle-content h3{
+	font-size: 40px;
+	line-height: 48px;
+	font-weight: bold;
+}
+.middle-content p{
+	font-size: 22px;
+	line-height: 28px;
+	text-align: justify;
+}
+.upcoming{
+	margin: 10px 0 0 0;
+}
+.upcoming .consult-title a{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.middle-content .tourdetails p{
+	text-align: center;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+/*************************/
